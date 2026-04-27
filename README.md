@@ -25,7 +25,7 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 
 1. **Clone the repository**
    ```bash
-   README.md
+   https://github.com/rahulbunker/Customer-Shopping-Behavior-Analysis
 2. **Open Customer_Shopping_Behavior_Analysis.ipynb notebook**
 
     This file contains:
